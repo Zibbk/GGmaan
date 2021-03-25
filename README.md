@@ -4,16 +4,16 @@ Kullanıcıların veritabanına albüm veya single eklemesine ve bunları değer
 0.5 (minimum) ile 5 (maksimum) puan arası bir değerlendirmede ve buna ek olarak istek dahilinde yorum veya incelemelerde de bulunulabilir.
 
 ## Veritabanı Yapısı
-#artist
+<b>#artist</b>
 id
 name
-<b>sort_name</b>
+sort_name
 type
 gender
 area
 comment
 
-#recording
+<b>#recording</b>
 id
 artist_credit
 name
